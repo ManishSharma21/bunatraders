@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Bunatraders
 
-Template Name: Green
-Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a ecommerce static website to showcase a business.
+URL from GITHUB - 
